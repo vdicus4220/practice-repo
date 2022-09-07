@@ -1,27 +1,27 @@
-## First Name Last Name
+## Vanessa Dicus
 
-### Term Year 
+### 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- MAC 2311 
 
-- Course 2
+- COP 2271
 
-- Course 3
+- COP 2073
 
-- Course 4
+- ISC 2310
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- baking
 
-- Thing 2
+- playing video games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- hanging with friends
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/06
