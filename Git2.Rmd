@@ -5,8 +5,8 @@ output: html_notebook
 # Problem 1:
 ## Part A
 
-# **COP 2073**
-## *Introduction to Data Science*
+#**COP 2073**
+##*Introduction to Data Science*
 ### 3
 
 ## Part B
